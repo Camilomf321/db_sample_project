@@ -1,3 +1,6 @@
+Camilo Andres Murcia Figueroa
+cmurcia87113@universidadean.edu.co
+
 README.txt
 
 Created 25-NOV-2003
